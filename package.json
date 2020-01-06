@@ -2,6 +2,10 @@
   "name": "expensify-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.10.2",
+    "node": "12.13.0"
+  },
   "dependencies": {
     "husky": "^3.0.5",
     "lint-staged": "^9.3.0",
